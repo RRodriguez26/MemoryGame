@@ -61,7 +61,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1D-lMPj3O0eC3gnwn2x2pueEcTPSNKs2h/view?usp=sharing)
 
 
 ## License

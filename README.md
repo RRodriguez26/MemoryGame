@@ -46,16 +46,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I use mostly stack overflow to have remind myself the syntax of javascript]
+[I use mostly stack overflow to have remind myself the syntax of javascript.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[The most challenge I had was the logic for the last coding task, which is to make sure if user guessed the patterns correctly.]
+[To be fairly honest, I barely had any struggle on creating the memory game. The most challenge I had was the logic for the last coding task, which is to make sure if user guessed the patterns correctly. Maybe another challenge of mine was going through the idea of sound frequency in javascript because I barely touched the idea of sound in plain javascript except using the p5.js library when I did other projects in  relation to sounds.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[After completing this submission, I would question the idea of which library/framework would be best used for this type of project. Would this also fall under the category of 'creative coding?' What would this project look like if it were to be optimized and improved, but without relying on javascript framework.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I were to have more hours into this app, I would definitely work on the colors to make the app look neater. Also, I would like to add a nice sound to it instead of relying on a simple frequency sound already in javascript, Probably relying on a synthesizer to make it sound cooler.]
 
 
 
@@ -66,7 +66,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Rafael ROdriguez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
